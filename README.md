@@ -5,6 +5,8 @@
 - 💻 Making things I like that hopefully matter  
 
 ## Things I'm Working On 🌊
+* Stanford New Collins IREC Project
+* GPU Things
 * 🚀 [Samwise Flight Software](https://github.com/stanford-ssi/samwise-flight-software)
 * 📷 [Samwise Payload Software](https://github.com/stanford-ssi/samwise-payload-software)
 * 🦠 Cell Segmentation Software
